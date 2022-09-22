@@ -1,1 +1,0 @@
-This repository is to start programming from shell
