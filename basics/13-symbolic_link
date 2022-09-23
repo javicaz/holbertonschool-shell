@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s /home/javilinux/holbertonschool-shell/basics/__ls__ /bin/ls
+ln -s /bin/ls /home/javilinux/holbertonschool-shell/basics/__ls__ 
