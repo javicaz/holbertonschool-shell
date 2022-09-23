@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -anR
+ls -anR /root
