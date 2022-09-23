@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -anR /root
+ls -an /holbertonschool-shell /root
