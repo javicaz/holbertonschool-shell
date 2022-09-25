@@ -1,7 +1,7 @@
 <h1>My first shell</h1> 
 
 <h2>Commands</h2>
-pwd To indicate where we are.
+pwd To indicate where we are.<br>
 ls To list things in the current position.
 cd To navigate through the directory.
 ls -l. To list in a long format
