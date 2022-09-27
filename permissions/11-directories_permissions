@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp ogu+x /tmp/h
+chmod -R ogu+x /tmp/h
