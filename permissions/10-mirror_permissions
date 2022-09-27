@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 753 hello --reference=RFILE olleh
+chmod 753 hello --reference=hello olleh
