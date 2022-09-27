@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp ogu+x /tmp/
+chgrp ogu+x /tmp/h
