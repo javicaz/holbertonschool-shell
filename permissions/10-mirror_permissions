@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp hello 764: olleh 664
+chgrp hello 764: olleh 764
