@@ -1,0 +1,2 @@
+#!/bin/bash
+chgrp hello 764: olleh 664
