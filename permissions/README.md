@@ -7,3 +7,5 @@ The commands of the Shell to provide permission. The permissions in this case ar
 2. Means "Write permission" -w- <br>
 3.  "Execute and write permision -wx
 4.
+
+Excercise 6. For granting permission doubts 754 Read and execute to main user 5 execute to group but read only to user. 

@@ -1,0 +1,7 @@
+#!/bin/bash
+namefile-""
+echo "Nombre del archivo"
+read_nameFile
+touch $nameFile
+chmod u+x $nameFile
+emacs $nameFile
