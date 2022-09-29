@@ -1,2 +1,2 @@
 #!/bin/bash
-printif = "hellos $USER"
+echo = "hellos $USER"
