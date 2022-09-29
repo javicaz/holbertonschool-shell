@@ -1,2 +1,2 @@
 #!/bin/bash
-$((dec#$BINARY))
+echo "$((dec#$BINARY))"
